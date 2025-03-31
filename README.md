@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
 
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
@@ -125,3 +126,6 @@ There you can learn how to use the 212 PlayState funcions in your mod!
 
 
 #### Psych Engine by ShadowMario, Friday Night Funkin' by ninjamuffin99
+=======
+# Universal-Anomalies
+>>>>>>> 3da41337fb9d4a571b55c0b12d328589a2b90166
